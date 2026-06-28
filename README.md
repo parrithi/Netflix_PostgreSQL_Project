@@ -1,8 +1,9 @@
 # 🎬 Netflix Content Analytics | SQL Business Intelligence Project
 
 > An end-to-end SQL analytics project that explores Netflix's global content library to uncover business insights related to content distribution, audience ratings, regional production trends, and catalog performance using PostgreSQL.
-![Banner Image](https://github.com/parrithi/Netflix-Content-Analytics-SQL/blob/main/Netflix.png)
+
 ---
+![Banner Image](https://github.com/parrithi/Netflix-Content-Analytics-SQL/blob/main/Netflix.png)
 
 # 📖 Project Overview
 
