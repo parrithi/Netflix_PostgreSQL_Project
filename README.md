@@ -4,7 +4,6 @@
 
 ---
 ![Banner Image](https://github.com/parrithi/Netflix-Content-Analytics-SQL/blob/main/Netflix.png)
-
 ---
 # 📖 Project Overview
 
