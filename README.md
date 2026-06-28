@@ -188,7 +188,7 @@ Through this project, I strengthened my ability to:
 
 This project was developed as part of my Data Analytics portfolio to demonstrate practical SQL skills through a real-world business scenario.
 
-Rather than focusing solely on query writing, the project emphasizes analytical thinking, business problem solving, and data-driven decision making—core skills expected from Data Analysts and Business Intelligence professionals.
+Rather than focusing solely on query writing, the project emphasizes analytical thinking, business problem solving, and data-driven decision making core skills expected from Data Analysts and Business Intelligence professionals.
 
 ---
 
